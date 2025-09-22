@@ -57,7 +57,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|          2000           |        A4                |
+|          2001           |        18                |
+|          2002           |        57                |
+|          2003           |        1B                |
+
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|          2004           |        FB                |
+|          2005           |        33                |
+|          2006           |        00                |
 
 #### Manual Calculations
 
@@ -108,8 +118,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|          2000           |        84                |
+|          2001           |        14                |
+|          2002           |        57                |
+|          2003           |        1B                |
 
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|          2004           |        FF                |
+|          2005           |        03                |
+|          2006           |        00                |
 #### Manual Calculations
 
 (Add your calculation here)
@@ -157,7 +176,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|          2000           |        02                |
+|          2001           |        00                |
+|          2002           |        03                |
+|          2003           |        00                |
+
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|          2004           |        06                |
+|          2005           |        00                |
+|          2006           |        00                |
 
 #### Manual Calculations
 
@@ -202,7 +231,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|          2000           |        69                |
+|          2001           |        24                |
+|          2002           |        34                |
+|          2003           |        12                |
+
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|          2004           |        02                |
+|          2005           |        00                |
+|          2006           |        01                |
 
 #### Manual Calculations
 
